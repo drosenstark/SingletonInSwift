@@ -4,6 +4,7 @@ This is an attempt to make an Interface-Builder-friendly Singleton in Swift as m
 It all works, but **somehow** the vc1 variable in the test becomes nil after it's set (and the setter is not called again). Baffling!
 
 Console Log After Pressing:
+
 1. Print Status
 2. VC2
 3. Print Status
